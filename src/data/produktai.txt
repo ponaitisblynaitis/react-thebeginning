@@ -1,0 +1,18 @@
+<div class="col-md-4">
+            <div class="card text-bg-warning text-center rounded-0">
+              <div class="card-header fw-bold">React kursai</div>
+              <div class="card-body">nuo 9.99 EUR / mėn.</div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card text-bg-success text-center rounded-0">
+              <div class="card-header fw-bold">Angular.JS kursai</div>
+              <div class="card-body">nuo 29.99 EUR / mėn.</div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card text-bg-danger text-center rounded-0">
+              <div class="card-header fw-bold">PHP kursai</div>
+              <div class="card-body">nuo 49.99 EUR / mėn.</div>
+            </div>
+          </div>

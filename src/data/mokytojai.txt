@@ -1,0 +1,40 @@
+ <div class="col">
+                <div class="card rounded-0">
+                  {/* <span class="border border-5 rounded-circle">photo</span> */}
+                  <div class="card-body g-col-6">
+                    <h5 class="card-title">Varden Pavard</h5>
+                    <p class="card-text">UI/UX Designer</p>
+                    <p class="card-text">795 Folsom Ave, Suite 600 San Francisco, CADGE 9410</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card rounded-0">
+                  
+                  <div class="card-body">
+                    <h5 class="card-title">Varden Pavard</h5>
+                    <p class="card-text">UI/UX Designer</p>
+                    <p class="card-text">795 Folsom Ave, Suite 600 San Francisco, CADGE 9410</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card rounded-0">
+                  
+                  <div class="card-body">
+                    <h5 class="card-title">Varden Pavard</h5>
+                    <p class="card-text">UI/UX Designer</p>
+                    <p class="card-text">795 Folsom Ave, Suite 600 San Francisco, CADGE 9410</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card rounded-0">
+                  
+                  <div class="card-body">
+                    <h5 class="card-title">Varden Pavard</h5>
+                    <p class="card-text">UI/UX Designer</p>
+                    <p class="card-text">795 Folsom Ave, Suite 600 San Francisco, CADGE 9410</p>
+                  </div>
+                </div>
+              </div>
